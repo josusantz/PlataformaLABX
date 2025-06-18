@@ -1,5 +1,5 @@
 {
-  "name": "PlataformaLaboratorioDeInovacaoInterdisciplinar",
+  "name": "plataformalabx",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
 
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
-    
+
     "lint": "eslint .",
     "preview": "vite preview"
   },
