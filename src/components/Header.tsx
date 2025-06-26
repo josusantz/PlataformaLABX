@@ -21,7 +21,7 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center space-x-3">
-            <img src="/labx.jpg" alt="LABX Logo" className="h-10 w-auto" />
+            <img src="labx.jpg" alt="LABX Logo" className="h-10 w-auto" />
             <div className="text-white">
               <h1 className="text-xl font-bold">LABX</h1>
               <p className="text-xs text-gray-300">Laboratório de Inovação Interdisciplinar</p>

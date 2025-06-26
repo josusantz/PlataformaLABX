@@ -14,7 +14,7 @@ const Hero = () => {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
         <div className="mb-8">
-          <img src="/labx.jpg" alt="LABX Logo" className="h-32 w-auto mx-auto mb-6" />
+          <img src="labx.jpg" alt="LABX Logo" className="h-32 w-auto mx-auto mb-6" />
         </div>
         
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
